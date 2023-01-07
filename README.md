@@ -1,4 +1,4 @@
-##To install CUDA and CuDNN follow the pdf
+## To install CUDA and CuDNN follow the pdf
 
 ## tensorflow-test
 Simple program to test tensorflow setup with GPU support
